@@ -1,0 +1,8 @@
+Put(test 12)
+Put(test12 Try)
+Put(great 15)
+Put(opera 12)
+Put(Asws Gameon)
+Put(arrao1 [ 12132, Wonder, [key3:csc, key1:142, k2:cschjj], []])
+Put(taj Mahal)
+Put(Agra 5)

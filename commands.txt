@@ -1,0 +1,50 @@
+put Test "Hooo"
+put Test1 18
+put Test "Hooo"
+put Test "Hooo"
+put Test1 18
+remove Testput taj "Mahal"
+put Agra 5
+remove tajremove Agraput taj "Mahal"
+put Agra 5
+remove tajremove Agraput taj "Mahal"
+put Agra 5
+remove tajremove Agraput taj "Mahal"
+put Agra 5
+remove tajremove Agraput taj "Mahal"
+put Agra 5
+remove tajremove Agraput taj "Mahal"
+put Agra 5
+put taj "Mahal"
+put Agra 5
+remove Agraput taj "Mahal"
+put Agra 5
+remove tajremove Agraput taj "Mahal"
+put Agra 5
+remove tajremove Agraput taj "Mahal"
+put Agra 5
+put taj "Mahal"
+put Agra 5
+put taj "Mahal"
+put Agra 5
+remove tajremove Agraput taj "Mahal"
+put Agra 5
+remove tajremove Agraput taj "Mahal"
+put Agra 5
+put taj "Mahal"
+put Agra 5
+remove Agraput taj "Mahal"
+put Agra 5
+put taj "Mahal"
+put Agra 5
+put taj "Mahal"
+put Agra 5
+remove tajremove Agraput taj "Mahal"
+put Agra 5
+remove tajremove Agraput taj "Mahal"
+put Agra 5
+put taj "Mahal"
+put Agra 5
+remove Agraput Try "aasad"
+remove Tryput Try "aasad"
+remove Try
